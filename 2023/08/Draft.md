@@ -6,8 +6,9 @@
  ✅[視聴&試す] Udemy | もう怖くないLinuxコマンド (Day 2とDay 3)
  
 ## 2. わかったこと
-- [Vim]●●●●●●●●●●●●
-
+- [Vim] :helpで2画面表示の時`Ctrl + w`でヘルプ画面とEdit画面をスイッチングできる。  
+- [Vim] `d`や`x`した時は、単に削除しているのでなく"Register"と呼ばれるクリップボードのような領域に情報を保存している。  
+- [Vim] configファイルなどで行同士を交換(swap)したい時がある。この時は"ddp"と覚える(頻度が高いので行swapの時は'ddp'で覚えよう！)  
 - [Linux] Hard LinkとSymbolic Linkの違い  
 - [Linux] `$ find . -name *.html` と`$ find . -name "*.html"`の違い。(keyword: パス名展開)  
 - [Linux] `$ find`を使って、目的のディレクトリを表示させる方法  
