@@ -1,4 +1,16 @@
+9/11
+
 ## 1. 取り組んだ課題一覧
+#### 【Lv10】Vimの基本を理解する / Understand the Basics of Vim.
+ ✅[提出] Vimに関してのブログを提出する(合格)
+ 
+#### 【Lv11】Linuxの基礎コマンドを理解する / Understanding Basic Linux Commandss
+ ✅[読む&試す] Linux標準教科書 (3/3)  
+ ✅[課題] コマンド内容ブログ化全18個中18個めまでまとめる　
+　⏹[提出] コマンド内容ブログ化提出する
+
+
+
 #### 【Lv10】Vimの基本を理解する / Understand the Basics of Vim.
  ✅[書く] Vimに関してのブログを書く(草稿)
  
