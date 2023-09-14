@@ -1,33 +1,15 @@
-9/14
+9/15
 
 ## 1. 取り組んだ課題一覧
 #### 【Lv14】gitに触れながら学ぶ / Learn Git Branching
  ✅[見る] システム開発プロジェクト応用第一 第8,9回GitHub & Pull Request
 
 ## 2. わかったこと
-- `mv newfile.txt new_file.txt`と`git mv newfile.txt new_file.txt`の挙動の違い
+- `git checkout (コミットオブジェクト)`でHEADを移動。 `git reset (コミットオブジェクト)`でHEADとブランチを移動
 
-- `git add .`と`git add -u`の挙動の違い
+- `git reset --hard`と `git reset (オプション指定なし)`と `git reset --soft`のふるまいの違い
 
-- ステージングエリアにGitのバージョン管理下に置きたくないファイルを間違ってaddしてしまった時の取り下げ方法
 
-- Gitのバージョン管理下に置きたいファイルが途中で不要となり、ワークツリーからも削除したい、ステージングエリアからも削除したいとなったときの対処法
-
-- 下記の結果の「a」がステージングエリア、「b」がワークツリーを指す、ということ(昨日の時点では勘違いしてた。)
-```
-$ git diff
-diff --git a/file.txt b/file.txt //ココ
-```
-
-- `git diff --staged`という書き方も存在するということ
-
-- git mergeでコンフリクトが発生した後、コンフリクトを解消するわけだが、その後のアクションとしてどうしてgit add & git commitするのかの理由がわかった(≒コンフリクトを解消後、どうしてgit mergeの再実行だとうまくいかないのかわかった。)
-
-- `git branch -d bug-fix`と`git branch -D bug-fix`の違い及びどういったときにどちらを使うのかわかった。
-
-- 一度つけたブランチ名を後から別の名前に変える方法
-
-- 昔コミットした内容を現在のワークツリー(=現在のHEADが参照しているブランチのコミットオブジェクト)に上書きする方法
 
 ## 3. 次やること(明日の目標)
 #### 【Lv14】gitに触れながら学ぶ / Learn Git Branching
