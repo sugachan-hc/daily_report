@@ -1,20 +1,22 @@
-9/16
+9/17
 
 ## 1. 取り組んだ課題一覧
 #### 【Lv14】gitに触れながら学ぶ / Learn Git Branching
- ✅ [試す] Learn Git Branching（途中まで）
+ ✅ [試す] Learn Git Branching （最後まで）
 
 ## 2. わかったこと
-- `git push origin :bug-fix`が何を意味しているかわかった。
-- `git remote prune origin`が何を意味しているかわかった。
-- `git branch`と `git branch -a`と `git branch -r`の違いを説明できるようになった。
-- `git push origin master`と `git push -u origin master`とで何が違うのかわかった。(Note: "-u": Upstream)
-- `git branch`と `git branch -v`と `git branch -vv`の違いを説明できるようになった。
-- `git push -u origin master`と `git branch -u origin/master`の違いとつかいどころを説明できるようになった。
+- Learn Git Branching のSolution選択時に表示される~~うっとしい~~メッセージが、[松岡修造の引用](https://youtu.be/zriF4xIYZQI)であることがわかった。
+```
+頑張れ頑張れできるできる絶対できる頑張れもっとやれるって
+やれる気持ちの問題だ頑張れ頑張れそこだ！
+そこで諦めるな絶対に頑張れ積極的にポジティブに頑張る頑張る
+北京だって頑張ってるんだから！
+```
+
 
 ## 3. 次やること(明日の目標)
 #### 【Lv14】gitに触れながら学ぶ / Learn Git Branching
-　⏹[試す] Learn Git Branching （最後まで）
+　⏹
 
 #### 【Lv15】課題提出用のリポジトリの作成 / Creating a Repository for Assignments
 　⏹[提出] リポジトリのURLを提出
