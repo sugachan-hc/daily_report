@@ -1,4 +1,4 @@
-9/23
+![image](https://github.com/sugachan-hc/daily_report/assets/10960663/8c9a20d8-9ba5-42f2-9b3d-db39f0b37bbc)9/23
 
 ## 1. 取り組んだ課題一覧(今日の目標)
 #### 【Lv22】[Udemy]ウェブ開発入門完全攻略コース - HTML/CSS/JavaScript. プログラミングをはじめて学び創れる人へ！
@@ -8,7 +8,10 @@
 - [Git] 無料プランでもPrivateが選択できること。(昔はできなかったと思う)
 
 ## 3. 次やること(明日の目標)
-
+#### 【Lv16】Pull Requestの練習 / Practice making a PR
+#### 【Lv17】github flowについて学ぶ / Learn about the GitHub Flow
+#### 【Lv20】	初級アウトプット課題 / HTML Output Assignment (Basic Level)
+- [提出] 課題最終チェック＆提出
 
 ## 4. 感じたこと
 - [Udemy]ウェブ開発入門完全攻略コース。正直これで作れる人にはなれないと感じた。雰囲気を知るには良いかもしれない。講師の知識がものすごい。
