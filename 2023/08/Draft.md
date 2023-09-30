@@ -13,12 +13,13 @@
 ## 2. わかったこと
 - `sudo gpasswd -a ubuntu docker`が何を意味しているのか分かった
 - Docker レジストリというのが何を意味にしているのか分かった
-
 - dockerには.tarにする機能もあるのだと知った。とりあえず `docker save {img} > xxx.tar` と `docker load < xxx.tar` は覚えておく。
+- docker composeが何をするヤツなのか概要がわかった
 
 ## 3. 次やること(明日の目標)
 #### 【Lv24】[Udemy] 米国AI開発者がゼロから教えるDocker講座 / Learning Docker from Scratch
-⏹ [視聴＆試す] セクション13 (達成)
+⏹ [視聴＆試す] セクション13 
+⏹ [視聴＆試す] セクション14 
 
 ## 4. 感じたこと
 - [HTML] 提出したことを忘れてました。レビュー結果が返ってこなかったのでリマインドしました。
