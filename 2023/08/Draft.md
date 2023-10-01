@@ -8,14 +8,14 @@
  
 ## 1. 取り組んだ課題一覧(今日の目標)
 #### 【Lv24】[Udemy] 米国AI開発者がゼロから教えるDocker講座 / Learning Docker from Scratch
-✅ [視聴＆試す] セクション13 
-✅ [視聴＆試す] セクション14 
+✅ [視聴＆試す] セクション13 (完了)
+🔺 [視聴＆試す] セクション14 (未達。途中まで)
 
 #### 【Lv25】入門 Docker / Introduction to Docker
-✅ [読む＆試す]dockerfileまで
+✅ [読む＆試す]dockerfileまで(完了)
 
 #### 【Lv28】Rubyのプログラミング初心者向けの超入門講座 / Basic Course in Ruby Programming for Novices
-✅ [観る＆試す]最後まで(追加で)
+✅ [観る＆試す]最後まで(追加で)(完了)
 
 #### 【Lv99】幸せになるマインドを学ぶ / Learn the mindset to become happy
 ✅ [観る＆試す] 【要約】幸福の達人 科学的に自分を幸せにする行動リスト50【Testosterone】(追加で)
@@ -27,7 +27,12 @@
 - Dockerfileとは、Docker Imageを作るための指示書のようなもの。その指示書からDocker Imageを作る際は、docker build コマンドを使う。
 
 ## 3. 次やること(明日の目標)
-
+#### 【Lv24】[Udemy] 米国AI開発者がゼロから教えるDocker講座 / Learning Docker from Scratch
+⏹ [視聴＆試す] セクション14 (未達。途中まで)
+#### 【Lv25】入門 Docker / Introduction to Docker
+⏹ [読む＆試す]セキュリティまで(完了)
+#### 【Lv31】グループ分け問題
+⏹ [作る]ローカルで実際に作成する
 
 ## 4. 感じたこと
 - [全般] 学習に飽きたらor行き詰まったら「幸せになるマインドを学ぶ」課題を少しずつやってみることにしました。良い息抜きになる。
