@@ -8,13 +8,13 @@
  
 ## 1. 取り組んだ課題一覧(今日の目標)
 #### 【Lv25-b】Docker Tutorial
-⏹ [読む＆試す]全10個中、Part 3まで
+✅ [読む＆試す]全10個中、Part 3まで
 
 #### 【Lv25-c】Quickstart: Compose and Rails
-⏹ [読む＆試す]最後まで
+🔺 [読む＆試す]最後まで（docker-compose upでエラー。その解消まで）
 
 #### 【Lv31】グループ分け問題 / Grouping
-⏹ [提出] Rubocopにかけてた後、提出
+🔺 [提出] Rubocopにかけてた後、提出 (Rubocopがでるので要修正)
 
 #### 【Lv35】ポケモンで学ぶ！クラスとオブジェクト指向 / Learn Classes and Object-Oriented Programming with Pokémon
 ✅ (追加)[読む] 通読＆課題内容を把握する。(→達成)
