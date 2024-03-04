@@ -8,6 +8,12 @@
 ⏹ 第6章　予定の追加  
 ⏹ 第7章　予定の変更  
 
+⏹ 第10章　フラッシュ、ポップアップ、モーダル
+⏹ 第11章　アクセサメソッド
+⏹ 第12章　日付と時刻の分離
+⏹ 付録B　datetime_picker.js
+⏹ 付録C　protectedメソッドとは何か　
+
 ##### Pikawasa授業宿題
 ⏹ flash, render  
 ⏹ BEM, sass  
